@@ -7,7 +7,7 @@
 3. Other activites?
 
 ## Banff
-1. Airbnb costs around $150/night
+1. Airbnb costs around $100/night/person
 
 ## Banff Activities (Norquay Mountain)
 https://banffnorquay.com/summer/sightseeing/
@@ -33,7 +33,7 @@ https://banffnorquay.com/summer/sightseeing/
 
 ## Lake Louise
 1. Visit Lakes before 0800 or after 1900 for parking
-2. Lake Louise Inn costs $350/night
+2. Lake Louise Inn costs $150/night/person
 3. (3h) Canoeing
 4. (1h) Hike at Moraine Lake Lakeshore
 
