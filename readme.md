@@ -5,6 +5,7 @@
 1. Car Rental costs $100/day
 2. (1.5h) Drive to Banff
 3. Other activites?
+4. Airbnb costs around $50/night/person
 
 ## Banff
 1. Airbnb costs around $100/night/person
