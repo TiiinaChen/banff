@@ -1,5 +1,5 @@
 ## Day 1 (20-27th Aug)
-1. Depart from Toronto
+1. Depart from Toronto (20~28 around $600)
 2. Reach Calgary in the afternoon
 3. Calgary Tower
 4. Stay for a night in Calgary ($50)
