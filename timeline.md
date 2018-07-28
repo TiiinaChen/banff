@@ -26,15 +26,12 @@
 5. Stay for a night at Jasper ($50)
 
 ## Day 6
-1. (Day) Whistlers Peak + Jasper Skytram
-2. Lunch at Whistlers Peak
-3. (Optional, 2h) Hike at Valley of the Five Lakes
+1. Activites at Jasper
 4. Stay for a night at Jasper ($50)
 
 ## Day 7
-1. (3h) Drive to Lake Louise
+1. Drive to Banff
 2. Lunch at Lake Louise
-3. (2h) Drive to Banff
 4. Stay for a night at Banff ($100)
 
 ## Day 8 (Day 1 + 7)
