@@ -52,3 +52,5 @@ https://www.pc.gc.ca/en/pn-np/ab/banff/visit/brochures
 1. (1.5h) Drive to Jasper
 2. Airbnb at Jasper costs $100/night
 3. Drive back to Calgary takes 5h
+4. (2h) Hike at Valley of the Five Lakes
+5. (Day) Whistlers Peak + Jasper Skytram

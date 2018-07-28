@@ -1,4 +1,4 @@
-## Day 1 (20-20th Aug)
+## Day 1 (20-27th Aug)
 1. Depart from Toronto
 2. Reach Calgary in the afternoon
 3. Calgary Tower
@@ -22,10 +22,22 @@
 1. Activities around Lake Louise
 2. Drive to Columbia Icefields
 3. Activities at Columbia Icefields
-4. Drive to Banff
-5. Stay for a night at Banff ($100)
+4. (1.5h) Drive to Jasper
+5. Stay for a night at Jasper ($50)
 
-## Day 6 (Day 1 + 5)
+## Day 6
+1. (Day) Whistlers Peak + Jasper Skytram
+2. Lunch at Whistlers Peak
+3. (Optional, 2h) Hike at Valley of the Five Lakes
+4. Stay for a night at Jasper ($50)
+
+## Day 7
+1. (3h) Drive to Lake Louise
+2. Lunch at Lake Louise
+3. (2h) Drive to Banff
+4. Stay for a night at Banff ($100)
+
+## Day 8 (Day 1 + 7)
 1. Hot Springs at Banff
 2. Drive to Calgary
 3. Flight to Toronto
